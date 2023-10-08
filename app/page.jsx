@@ -9,7 +9,7 @@ const Home = () => {
             <span className="orange_gradient text-center">your thoughts freely</span>
         </h1>
         <p className="desc text-center">
-            Promptopia is an open-source AI prompting tool for modern world to discover, create and share creative prompts
+            Shareopia is an open-source platform for modern world to discover, create and share creative thoughts
         </p>
         {/* Feed */}
         <Feed />
